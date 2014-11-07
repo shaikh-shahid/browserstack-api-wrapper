@@ -1,0 +1,32 @@
+{
+  "name": "browserstack-wrapper",
+  "version": "1.0.0",
+  "description": "This package is wrapper of browser stack API.",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codeforgeek/browserstack-api-wrapper"
+  },
+  "keywords": [
+    "browser-stack"
+  ],
+  "author": {
+    "name": "Shahid Shaikh"
+  },
+  "readme": "",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "request": "^2.47.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/codeforgeek/browserstack-api-wrapper"
+  },
+  "homepage": "https://github.com/codeforgeek/browserstack-api-wrapper",
+  "_id": "bs-wrapper@0.0.2",
+  "_from": "bs-wrapper@"
+}
