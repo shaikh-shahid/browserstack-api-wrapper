@@ -25,20 +25,22 @@ take_shot()
 Take screenshot of worker.<br>
 Parameters: <br>
         id: worker id returns from above function, <br>
-        format: png,json,xml\n<br>
+        format: png,json,xml<br>
 get_status()
 --------------------------
 Fetch current status of worker.<br>
 Parameters: <br>
-    id: worker id.
-get_status_all()------------------------
+    id: worker id.<br>
+get_status_all()
+------------------------
 Fetch all workers status<br>
 deleteworker()
 ----------------------
 Delete the worker <br>
 Parameters:<br> 
 id : worker id.<br>
-status()---------------------
+status()
+---------------------
 Returns the current status of api.<br>
 Example code: 
 --------------------------
